@@ -1,0 +1,7 @@
+用mogoose庫來與mongo數據庫交互
+mongo數據庫詳情在 C://data/readme
+
+初始化檔案
+npm init
+安裝指令
+npm i mongoose

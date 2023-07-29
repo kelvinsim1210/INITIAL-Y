@@ -1,0 +1,6 @@
+使用 token 進行會話控制
+多數情況用於移動端
+
+使用jwt 進行token 的設置
+
+npm i jsonwebtoken

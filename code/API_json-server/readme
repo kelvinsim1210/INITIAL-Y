@@ -1,0 +1,17 @@
+全局安裝
+npm i -g json-server
+
+建立一個文件夾
+
+在這個文件夾裡面建立一個 json 文檔儲存資料
+
+在 json 文件所在文件夾座位工作目錄
+
+以工作目錄運行命令
+json-server --watch 目標 json 文件
+json-server --watch json-server_1.json
+
+--------------------------------------------
+
+# 接口測試
+https://www.bilibili.com/video/BV1gM411W7ex/?p=159&spm_id_from=pageDriver&vd_source=cf5f4c8647474448dbc724836f5d1935

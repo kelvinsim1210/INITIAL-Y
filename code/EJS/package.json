@@ -1,0 +1,15 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "EJS 是一個模板引擎\r 作用是為了將html和js分割開來",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}

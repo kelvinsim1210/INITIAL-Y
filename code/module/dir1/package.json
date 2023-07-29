@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "text1": "node ./text1.js",
+        "text2": "node ./text2.js"
+    },
+    "name": "dir1",
+    "version": "1.0.0",
+    "main": "text1.js",
+    "license": "MIT"
+}

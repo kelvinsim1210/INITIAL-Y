@@ -1,0 +1,1 @@
+module.exports = "我是text1.js";
